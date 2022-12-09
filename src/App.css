@@ -1,0 +1,21 @@
+h1
+{
+  font-size: 1.6rem;
+}
+
+h2
+{
+  font-size: 1rem;
+  margin: 10px;
+}
+
+.App 
+{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.crossed-line 
+{
+  text-decoration: line-through;
+}
