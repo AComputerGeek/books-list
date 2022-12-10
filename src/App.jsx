@@ -3,7 +3,7 @@
 
 import React, { useState } from "react";
 import { useStore } from "./store";
-import"./App.css";
+import "./App.css";
 
 export default function App() 
 {
